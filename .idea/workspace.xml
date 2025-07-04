@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a4a2654-239a-406e-bcd3-83ce08e9fb17" name="Changes" comment="Edit test2.txt" />
+    <list default="true" id="8a4a2654-239a-406e-bcd3-83ce08e9fb17" name="Changes" comment="Edit test1.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,16 +158,32 @@
       <option name="project" value="LOCAL" />
       <updated>1751641395433</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Edit test2.txt">
+      <option name="closed" value="true" />
+      <created>1751641635287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751641635287</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Edit test1.txt">
+      <option name="closed" value="true" />
+      <created>1751641968996</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1751641968996</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add test1.txt" />
-    <MESSAGE value="Edit test1.txt" />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Add test2.txt" />
     <MESSAGE value="/" />
     <MESSAGE value="Edit test2.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit test2.txt" />
+    <MESSAGE value="Edit test1.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit test1.txt" />
   </component>
 </project>
