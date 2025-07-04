@@ -1,0 +1,100 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8a4a2654-239a-406e-bcd3-83ce08e9fb17\" name=\"Changes\" comment=\"Add test2.txt\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"vasilivlas\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubDefaultAccount\">\r\n    <option name=\"defaultAccountId\" value=\"4d96c7e7-0df2-4c99-9b1c-95564219027f\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/vasilivlas/academIt.git\",\r\n    \"accountId\": \"4d96c7e7-0df2-4c99-9b1c-95564219027f\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 4\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2zP9llEzuDl81pxdMaCQExKA31p\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"sortByType\" value=\"true\" />\r\n    <option name=\"sortKey\" value=\"BY_TYPE\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"D:/Academ IT/Автотестирование/Лекция 1/academit\",\r\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8a4a2654-239a-406e-bcd3-83ce08e9fb17\" name=\"Changes\" comment=\"\" />\r\n      <created>1751621993712</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1751621993712</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Edit test1.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751622071505</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751622071505</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Edit test1.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751622125436</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751622125436</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Edit test1.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751622188735</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751622188735</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Add gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751637346836</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751637346836</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Add gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751638012412</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751638012412</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Add test2.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751639574339</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751639574339</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Add test2.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751639600621</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751639600621</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Add test2.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751639656368</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751639656368</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Add test1.txt\" />\r\n    <MESSAGE value=\"Edit test1.txt\" />\r\n    <MESSAGE value=\"Add gitignore\" />\r\n    <MESSAGE value=\"Add test2.txt\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add test2.txt\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 71d521d4f66c9082a4108fa634e20418d63a4b56)
++++ b/.idea/workspace.xml	(date 1751641168713)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8a4a2654-239a-406e-bcd3-83ce08e9fb17" name="Changes" comment="Add test2.txt" />
++    <list default="true" id="8a4a2654-239a-406e-bcd3-83ce08e9fb17" name="Changes" comment="Edit test1.txt" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -13,30 +13,30 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="main" />
++        <entry key="$PROJECT_DIR$" value="branch_with_conflict" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "vasilivlas"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;vasilivlas&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubDefaultAccount">
+     <option name="defaultAccountId" value="4d96c7e7-0df2-4c99-9b1c-95564219027f" />
+   </component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/vasilivlas/academIt.git",
+-    "accountId": "4d96c7e7-0df2-4c99-9b1c-95564219027f"
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/vasilivlas/academIt.git&quot;,
++    &quot;accountId&quot;: &quot;4d96c7e7-0df2-4c99-9b1c-95564219027f&quot;
+   }
+-}]]></component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 4
+-}]]></component>
++}</component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 4
++}</component>
+   <component name="ProjectId" id="2zP9llEzuDl81pxdMaCQExKA31p" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -49,7 +49,7 @@
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "#1 on master",
+     "last_opened_file_path": "D:/Academ IT/Автотестирование/Лекция 1/academit",
+     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+   }
+@@ -126,14 +126,22 @@
+       <option name="project" value="LOCAL" />
+       <updated>1751639656368</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="Edit test1.txt">
++      <option name="closed" value="true" />
++      <created>1751641028008</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1751641028008</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Add test1.txt" />
+-    <MESSAGE value="Edit test1.txt" />
+     <MESSAGE value="Add gitignore" />
+     <MESSAGE value="Add test2.txt" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Add test2.txt" />
++    <MESSAGE value="Edit test1.txt" />
++    <option name="LAST_COMMIT_MESSAGE" value="Edit test1.txt" />
+   </component>
+ </project>
+\ No newline at end of file
